@@ -1,5 +1,5 @@
-DECLARE @BusinessDate DATE = '2017-07-30';
-DECLARE @BusinessMonth INTEGER = 201707;
+DECLARE @BusinessDate DATE = '2018-07-30';
+DECLARE @BusinessMonth INTEGER = 201807;
 
 DELETE FROM Landing.Import_XML_File;
 DELETE FROM Landing.Import_Daily;
